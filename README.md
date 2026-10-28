@@ -6,7 +6,7 @@ I created an interactive mountain sunset using D3.js. The illustration uses the 
 
 ## Live Website
 
-
+https://jxnyxan.github.io/a1-ghd3/
 
 ## Technical Achievements
 
@@ -46,7 +46,7 @@ A "Click me" label and pointer cursor indicate that the sun is interactive. Clic
   https://stackoverflow.com/questions/72822617/how-to-add-popup-on-d3-js-visualization-tree-nodes
   I consulted this discussion for the idea of using
   a D3 click event to trigger a popup
-  I used ChatGPT to review if all requirements for the assignment has been met and to review my README.
+- I used ChatGPT to review if all requirements for the assignment has been met and to review my README.
 - ChatGPT also helped me with generating ideas for what could be implemented for complex implementation and how I can do them.
 - Lastly, I used ChatGPT to consult code assistance when my code was having an error or not working the way I want to work.
 
